@@ -1,0 +1,4 @@
+One idea is to generate a program that determines what sort of weather will strike. Another idea could be to look into how we can 
+make AI even better, and even to a point where we can conquer the world. Who knows?? I would think that we should also consider 
+creating smart desks that can figure out their ideal height depending on the day. These are just a few ideas. We can think of
+better ideas soon.
